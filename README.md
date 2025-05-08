@@ -88,9 +88,9 @@ Modüler kod yazma ve bileşen tabanlı mimari ile uygulamayı daha sürdürüle
 
 State ve veri yönetimi konularında pratik yaptım.
 
-# 📍 Detaylar ve kaynak kod için GitHub hesabımı ziyaret edebilirsin:
 
-🔗 GitHub Profilim: https://github.com/Esrakgun?page=1&tab=repositories
 
 # 📸 Ekran Görüntüsü:
-# Rent-a-Car
+
+https://github.com/user-attachments/assets/9805aa86-c31a-4683-b74b-42bf16a14771
+# rent-a-car
