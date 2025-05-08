@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /gizlilik-politikasi/
+Disallow: /kosullar/
+Allow: /
+
+Sitemap: https://www.orneksite.com/sitemap-tr.xml
+
