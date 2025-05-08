@@ -92,5 +92,8 @@ State ve veri yönetimi konularında pratik yaptım.
 
 # 📸 Ekran Görüntüsü:
 
-https://github.com/user-attachments/assets/9805aa86-c31a-4683-b74b-42bf16a14771
-# rent-a-car
+https://github.com/user-attachments/assets/8337a442-6942-4e8e-bb3e-09fe8a93faa0
+
+
+
+
